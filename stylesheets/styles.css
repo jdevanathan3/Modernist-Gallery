@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
 body {
-  /*text-align: center;*/
+  text-align: center;
   padding:50px;
   font:14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#777;
@@ -160,10 +160,10 @@ header ul a strong {
 }
 
 section {
-  display: -webkit-flex; /* Safari */
-  -webkit-justify-content: space-around; /* Safari 6.1+ */
-  display: flex;
-  justify-content: space-around;
+  /*display: -webkit-flex; /* Safari */
+  /*-webkit-justify-content: space-around; /* Safari 6.1+ */
+  /*display: flex;
+  justify-content: space-around;*/
   width:500px;
   float:center;
   padding-bottom:50px;
