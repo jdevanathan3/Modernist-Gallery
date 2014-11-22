@@ -191,6 +191,27 @@ footer {
   position:relative;
   bottom:50px;
 }
+.btn {
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #d7d9db);
+  background-image: -moz-linear-gradient(top, #ffffff, #d7d9db);
+  background-image: -ms-linear-gradient(top, #ffffff, #d7d9db);
+  background-image: -o-linear-gradient(top, #ffffff, #d7d9db);
+  background-image: linear-gradient(to bottom, #ffffff, #d7d9db);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #756975;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #a6aaad;
+  text-decoration: none;
+}
 
 @media print, screen and (max-width: 960px) {
   
