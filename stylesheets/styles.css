@@ -54,7 +54,10 @@ a small {
   width:1600px;
   margin:0 auto;
 }
-
+#wrap { 
+	width: 600px; 
+	margin: 0 auto; 
+}
 blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
